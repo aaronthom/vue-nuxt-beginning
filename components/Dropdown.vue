@@ -39,5 +39,3 @@ const items = [
     </UDropdown>
 </div>
 </template>
-    
-    
